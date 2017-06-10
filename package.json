@@ -1,0 +1,32 @@
+{
+  "name": "gulp-vengeance",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbsulli/gulp-vengeance.git"
+  },
+  "keywords": [
+    "gulp",
+    "vengeance",
+    "pug",
+    "jade"
+  ],
+  "author": "Joshua Sullivan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jbsulli/gulp-vengeance/issues"
+  },
+  "homepage": "https://github.com/jbsulli/gulp-vengeance#readme",
+  "dependencies": {
+    "gulp-util": "^3.0.8",
+    "object-assign": "^4.1.1",
+    "pug": "^2.0.0-rc.2",
+    "through2": "^2.0.3",
+    "vinyl": "^2.0.2"
+  }
+}
